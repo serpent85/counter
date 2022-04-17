@@ -1,0 +1,42 @@
+#all{
+  margin-left: 43rem;
+}
+#text{
+  margin-left: 10rem;
+  font-size: 4rem;
+}
+#value{
+  margin-left: 14rem;
+  font-size: 4rem;
+}
+#but{
+  margin-right: 2rem;
+  
+}
+.increase{
+  width: 10rem;
+  height: 2rem;
+  color: black;
+  background-color: white;
+  border-radius: .5rem;
+  font-family: fantasy;
+  font-size: large;
+}
+.reset{
+ width: 10rem;
+ height: 2rem;
+ color: black;
+ background-color: white;
+ border-radius: .5rem;
+ font-family: fantasy;
+ font-size: large;
+}
+.decrease{
+  width: 10rem;
+  height: 2rem;
+  color: black;
+  background-color: white;
+  border-radius: .5rem;
+  font-family: fantasy;
+  font-size: large;
+}
